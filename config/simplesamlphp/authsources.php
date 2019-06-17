@@ -10,6 +10,7 @@ $config = array(
         'exampleauth:UserPass',
         'user1:user1pass' => array(
             'uid' => array('1'),
+            'userName' => 'Ali',
             'eduPersonAffiliation' => array('group1'),
             'email' => 'user1@example.com',
         ),
